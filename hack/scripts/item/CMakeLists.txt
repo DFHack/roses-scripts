@@ -1,6 +1,0 @@
-DFHACK_SCRIPTS(create.lua SUBDIRECTORY item)
-DFHACK_SCRIPTS(material-change.lua SUBDIRECTORY item)
-DFHACK_SCRIPTS(projectile.lua SUBDIRECTORY item)
-DFHACK_SCRIPTS(quality-change.lua SUBDIRECTORY item)
-DFHACK_SCRIPTS(remove.lua SUBDIRECTORY item)
-DFHACK_SCRIPTS(subtype-change.lua SUBDIRECTORY item)

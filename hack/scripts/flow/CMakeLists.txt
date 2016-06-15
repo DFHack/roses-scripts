@@ -1,3 +1,0 @@
-DFHACK_SCRIPTS(customweather.lua SUBDIRECTORY flow)
-DFHACK_SCRIPTS(eruption.lua SUBDIRECTORY flow)
-DFHACK_SCRIPTS(spawnflow.lua SUBDIRECTORY flow)
